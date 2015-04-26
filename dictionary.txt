@@ -1,0 +1,5 @@
+do:verb
+dog:noun
+cute:adjective
+nice:adjective
+love:noun verb
