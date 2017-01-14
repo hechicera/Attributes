@@ -1,3 +1,4 @@
+#Python 3.1.2
 # Attributes
 Choosing a word by an attribute
 In the file "dictionary" we have a list of words with their attributes. 
