@@ -1,5 +1,11 @@
-do:verb
-dog:noun
+do:verb 
+make:verb
+close:verb
+girl:noun
 cute:adjective
 nice:adjective
 love:noun verb
+man:noun
+big:adjective
+small:adjective
+average:adjective
